@@ -1,0 +1,17 @@
+{
+  "image": "traffic1.jpg",
+  "annotations": [
+    {
+      "label": "car",
+      "bounding_box": [120, 200, 300, 350]
+    },
+    {
+      "label": "car",
+      "bounding_box": [420, 210, 600, 360]
+    },
+    {
+      "label": "truck",
+      "bounding_box": [700, 220, 880, 400]
+    }
+  ]
+}
