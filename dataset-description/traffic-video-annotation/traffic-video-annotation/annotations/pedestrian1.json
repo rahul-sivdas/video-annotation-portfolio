@@ -1,0 +1,13 @@
+{
+  "image": "pedestrian1.jpg",
+  "annotations": [
+    {
+      "label": "person",
+      "bounding_box": [150, 210, 240, 420]
+    },
+    {
+      "label": "person",
+      "bounding_box": [300, 220, 380, 430]
+    }
+  ]
+}
