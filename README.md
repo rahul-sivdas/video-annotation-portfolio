@@ -15,4 +15,5 @@ Annotations are stored in JSON format and contain object labels and bounding box
 - CVAT
 - Labelbox
 - Manual bounding box annotation
+
 Sample projects demonstrating video annotation, object labeling, and activity recognition for AI datasets, Project Overview, Dataset Structure, Annotation Format, Example Annotation.
